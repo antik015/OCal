@@ -1,1 +1,1 @@
-R functions to implement orthogonal calibration. Description coming soon.
+R package to implement orthogonal calibration. See help files.
