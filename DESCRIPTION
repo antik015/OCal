@@ -1,9 +1,0 @@
-Package: OCal
-Type: Package
-Title: Orthogonal calibration using posterior projections
-Version: 1.0
-Date: 2024-04-11
-Author: Antik Chakraborty
-Maintainer: Antik Chakraborty <antik015@purdue.edu>
-Description: The package contains functions to implement orthogonal calibration as developed in "Orthogonal calibration via posterior projections with applications to the Schwarzschild model" by Chakraborty et.al. (2024). The article can be found at  https://arxiv.org/abs/2404.03152 .
-License: MIT
